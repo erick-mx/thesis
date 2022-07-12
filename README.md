@@ -15,5 +15,5 @@ Damped harmonic oscillator
 
 - **ts_chaos.csv (N=10000, not normalized)**
 | c0 | c1 | c2 | c3 | c4 | c5 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | logistic | double pendulum ($x_2$) | double pendulum ($y_2$) | Lorenz$_x$ | Lorenz$_y$ | Lorenz$_z$ |
