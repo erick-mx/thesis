@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | $y_0 = 0.5$  | $y_1 = x$  | $y_2 = x^2$ | $y_3 = x^3 $ | $y_{sqrt} = \sqrt{x}$ | $y_{sin} = \sin (x/20)$ | $y_{sins} = \sin (x/15) + \ldots$ | $y_{exp} = e^x$ | $y_{log} = \log (x)$ |
 
-- **ts_phys.csv (N=1000, normalized)**
+- **ts_phys.csv & ts_phys_noise.csv (N=1000, normalized)**
 Damped harmonic oscillator
 
 - **ts_chaos.csv (N=10000, not normalized)**
