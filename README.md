@@ -36,3 +36,8 @@ Damped harmonic oscillator
 | c0 | c1 | c2 | c3 | c4 | c5 | c6 | c7 | c8 | c9 | c10 | c11 | c12 | c13 | c14 | c15 | c16 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ARMA(0,0) | ARMA(0.9,0.9) | ARMA(0.9,0.3) | ARMA(0.9,-0.3) | ARMA(0.9,-0.9) | ARMA(0.3,0.9) | ARMA(0.3,0.3) | ARMA(0.3,-0.3) | ARMA(0.3,-0.9) | ARMA(-0.3,0.9) | ARMA(-0.3,0.3) | ARMA(-0.3,-0.3) | ARMA(-0.3,-0.9) | ARMA(-0.9,0.9) | ARMA(-0.9,0.3) | ARMA(-0.9,-0.3) | ARMA(-0.9,-0.9) |
+
+
+### Downloaded data
+- **ts_co2_annmean.csv (N=59)**
+Downloaded from [DataHub](https://datahub.io/core/co2-ppm)
