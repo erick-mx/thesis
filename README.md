@@ -41,3 +41,5 @@ Damped harmonic oscillator
 ### Downloaded data
 - **ts_co2_annmean.csv (N=59)**
 Downloaded from [DataHub](https://datahub.io/core/co2-ppm)
+- **ts_sunspost_annmean.csv (N=322)**
+Downloaded from [SILSO](https://www.sidc.be/silso/datafiles)
