@@ -1,5 +1,5 @@
 # My figures
 
-![Examplo Image](https://drive.google.com/uc?id=1BEHeUy60LA6oiiAShPRpCu8czB-1_9Vj)
+![Examplo Image](https://drive.google.com/uc?id=10ktEbTgMY2YQUxZJElsZvlAXMuClppHJ)
 
 ![Example Image](https://drive.google.com/uc?id=1bXzYeegauqB2M6-VZwitEeXHmMiYZIUY)
